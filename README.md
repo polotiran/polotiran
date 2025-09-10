@@ -1,8 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
+🎓 Étudiant en cybersécurité
+🔭 Objectif : apprendre, partager, expérimenter
+⚡ Fun fact : mon premier projet sur github était un carré qui bouge sur Godot
+
+## Le contenu de ce GitHub sera
+- des notes explicatives sur la cybersécurité
+- des labos d'expérimentation
+- des notes retraçant la réflexion sur la résolution de problèmes
 <!--
-**polotiran/polotiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
