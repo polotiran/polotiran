@@ -1,13 +1,14 @@
-# Hi there 👋
+# Learning, building, and breaking stuff ⚡
 
-🎓 Étudiant en cybersécurité
-🔭 Objectif : apprendre, partager, expérimenter
-⚡ Fun fact : mon premier projet sur github était un carré qui bouge sur Godot
+🎓 Cybersecurity student
+🔭 Focus : learning, sharing & breaking stuff
+⚡ Fun fact : my very first project on GitHub was...a moving square on Godot (some high level game design 😅)
 
-## Le contenu de ce GitHub sera
-- des notes explicatives sur la cybersécurité
-- des labos d'expérimentation
-- des notes retraçant la réflexion sur la résolution de problèmes
+## Here you'll find
+📝 clear and thorough notes on cybersecurity concepts (well...at least I'll try)
+🧪 security labs for demonstration purposes
+💡 my own reflections on problem-solving and learning
+(everything coming soon 😊)
 <!--
 Here are some ideas to get you started:
 
